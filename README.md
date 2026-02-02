@@ -1,4 +1,15 @@
-## Hi there 👋
+## Welcome to my Profile!
+Programming to build my skills!
+
+Currently working on a personal website
+
+-What I have worked on:
+  - Programming Arduino Microcontrollers to control actuators
+  - Programmed a Supermassive Black Hole Mass Calculator
+
+Want to reach me: Email me at
+mmonteirothibault@gmail.com
+
 
 <!--
 **Hibbus/Hibbus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
