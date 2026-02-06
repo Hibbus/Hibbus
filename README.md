@@ -10,8 +10,6 @@ Programming to build my skills!
   - Programming Arduino Microcontrollers to control actuators
   - Programmed a Supermassive Black Hole Mass Calculator
 
-Want to reach me: I prefer Email!
-
 
 <!--
 **Hibbus/Hibbus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
