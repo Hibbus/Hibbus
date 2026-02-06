@@ -1,14 +1,16 @@
 ## Welcome to my Profile!
 Programming to build my skills!
 
-Currently working on a personal website
+-What I am currently working on:
+  - Learning Computer-Aided-Design software
+  - Creating a portfolio website
+  - Practicing C++, Python
 
 -What I have worked on:
   - Programming Arduino Microcontrollers to control actuators
   - Programmed a Supermassive Black Hole Mass Calculator
 
-Want to reach me: Email me at
-mmonteirothibault@gmail.com
+Want to reach me: I prefer Email!
 
 
 <!--
